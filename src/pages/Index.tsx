@@ -32,31 +32,31 @@ const Index = () => {
       id: "interior",
       name: "Интерьер",
       image:
-        "https://cdn.pixabay.com/photo/2020/10/30/17/30/car-5700170_1280.jpg",
+        "https://cdn.poehali.dev/files/575d2c64-2cd3-4306-8b26-596d4cbe3bf4.jpg",
     },
     {
       id: "exterior",
       name: "Экстерьер",
       image:
-        "https://cdn.pixabay.com/photo/2017/03/30/12/58/car-2185958_1280.jpg",
+        "https://cdn.poehali.dev/files/fb878725-90de-4529-b733-5cf735b4de74.jpg",
     },
     {
       id: "electronics",
       name: "Электроника",
       image:
-        "https://cdn.pixabay.com/photo/2016/10/02/20/49/auto-1714222_1280.jpg",
+        "https://cdn.poehali.dev/files/2adc1237-1c7e-49f9-9d33-c8a5eab0c0e5.jpg",
     },
     {
       id: "care",
       name: "Уход",
       image:
-        "https://cdn.pixabay.com/photo/2015/01/19/13/51/car-wash-604012_1280.jpg",
+        "https://cdn.poehali.dev/files/67f34b9e-d140-4a73-87ac-5b1518de6bf4.jpeg",
     },
     {
       id: "season",
       name: "Сезонные",
       image:
-        "https://cdn.pixabay.com/photo/2015/09/15/06/06/auto-939097_1280.jpg",
+        "https://cdn.poehali.dev/files/5ec7bc5c-dee4-4566-a228-b43f20bdbef2.jpg",
     },
   ];
 
@@ -67,7 +67,7 @@ const Index = () => {
         name: "Автоковрики EVA",
         price: 2500,
         image:
-          "https://cdn.pixabay.com/photo/2020/10/30/17/30/car-5700170_1280.jpg",
+          "https://cdn.poehali.dev/files/575d2c64-2cd3-4306-8b26-596d4cbe3bf4.jpg",
         alt: "Коврики",
       },
       {
@@ -75,7 +75,7 @@ const Index = () => {
         name: "Чехлы на сиденья",
         price: 3200,
         image:
-          "https://cdn.pixabay.com/photo/2019/10/08/11/49/car-seat-4534715_1280.jpg",
+          "https://cdn.poehali.dev/files/0a7b93e6-8238-4c5b-8e2c-75606ec5a8f3.jpg",
         alt: "Чехлы",
       },
     ],
@@ -85,7 +85,7 @@ const Index = () => {
         name: "Спойлер универсальный",
         price: 4500,
         image:
-          "https://cdn.pixabay.com/photo/2015/09/20/13/06/mustang-946400_1280.jpg",
+          "https://cdn.poehali.dev/files/fb878725-90de-4529-b733-5cf735b4de74.jpg",
         alt: "Спойлер",
       },
       {
@@ -93,7 +93,7 @@ const Index = () => {
         name: "Дефлекторы окон",
         price: 1200,
         image:
-          "https://cdn.pixabay.com/photo/2016/08/31/11/55/car-1635615_1280.jpg",
+          "https://cdn.poehali.dev/files/f9d56a14-4d0b-4f94-ba7a-6aea450bb018.jpg",
         alt: "Дефлекторы",
       },
     ],
@@ -103,7 +103,7 @@ const Index = () => {
         name: "Видеорегистратор",
         price: 5000,
         image:
-          "https://cdn.pixabay.com/photo/2016/06/07/09/26/technology-1443122_1280.jpg",
+          "https://cdn.poehali.dev/files/2adc1237-1c7e-49f9-9d33-c8a5eab0c0e5.jpg",
         alt: "Видеорегистратор",
       },
     ],
@@ -113,7 +113,7 @@ const Index = () => {
         name: "Полироль для кузова",
         price: 800,
         image:
-          "https://cdn.pixabay.com/photo/2016/03/17/23/01/auto-1263629_1280.jpg",
+          "https://cdn.poehali.dev/files/67f34b9e-d140-4a73-87ac-5b1518de6bf4.jpeg",
         alt: "Полироль",
       },
     ],
@@ -123,7 +123,7 @@ const Index = () => {
         name: "Накидка с подогревом",
         price: 1800,
         image:
-          "https://cdn.pixabay.com/photo/2016/01/22/19/20/winter-1152619_1280.jpg",
+          "https://cdn.poehali.dev/files/5ec7bc5c-dee4-4566-a228-b43f20bdbef2.jpg",
         alt: "Накидка с подогревом",
       },
     ],
