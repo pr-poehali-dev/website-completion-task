@@ -214,7 +214,7 @@ const Index = () => {
   };
 
   return (
-    <div className="min-h-screen bg-blue-50">
+    <div className="min-h-screen bg-sky-200">
       {/* Header */}
       <header className="bg-blue-800 text-white">
         <div className="container mx-auto px-4 py-4">
